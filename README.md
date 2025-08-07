@@ -1,0 +1,16 @@
+# Text Simplifier Chrome Extension
+
+A Chrome extension that simplifies selected text on any webpage using AI. Built using JavaScript and the Chrome Extensions API.
+
+## Features
+- Simplifies selected text with a right-click
+- Toggle between original and simplified version
+- Works on any webpage
+
+## Tech Stack
+- JavaScript
+- Chrome Extension APIs
+- AI backend (e.g., OpenAI or DeepSeek API)
+
+## Author
+[Ishan Singla](https://github.com/Ishanx22)
