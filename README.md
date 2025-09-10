@@ -10,7 +10,7 @@ Text Simplification
 
 ![Simplify Demo](/project1.png)
 
-Text Summarizationb
+Text Summarization
 
 ![Recipe Genie Demo](/project2.png)
 
