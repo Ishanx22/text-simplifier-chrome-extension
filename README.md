@@ -50,7 +50,9 @@ Html,Css,js
 1. Get your DeepSeek (R1 Free) API key:  
    [https://openrouter.ai/deepseek/deepseek-r1:free/api](https://openrouter.ai/deepseek/deepseek-r1:free/api)
 
-2. Open `AI-RecipeApp/frontend/src/App.js` and replace line 58 with your key:
+2. Open `text-simplifier-chrome-extension/text-simplifier-extension
+/background.js
+` and replace line 58 with your key:
 
 ```javascript
 const API_KEY = "YOUR_API_KEY_HERE";
