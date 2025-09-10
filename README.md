@@ -6,6 +6,15 @@
 
 ## Images
 
+Landing Page
+
+![Recipe Genie Demo](/project1.png)
+
+Recipe Generator
+
+![Recipe Genie Demo](/project2.png)
+
+
 
 
 
