@@ -6,11 +6,11 @@
 
 ## Images
 
-Landing Page
+Text Simplification
 
-![Recipe Genie Demo](/project1.png)
+![Simplify Demo](/project1.png)
 
-Recipe Generator
+Text Summarizationb
 
 ![Recipe Genie Demo](/project2.png)
 
@@ -61,7 +61,7 @@ Html,Css,js
 
 2. Open `text-simplifier-chrome-extension/text-simplifier-extension
 /background.js
-` and replace line 58 with your key:
+` and replace line 133,167 with your key:
 
 ```javascript
 const API_KEY = "YOUR_API_KEY_HERE";
