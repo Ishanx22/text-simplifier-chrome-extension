@@ -64,6 +64,6 @@ Html,Css,js
 ` and replace line 133,167 with your key:
 
 ```javascript
-Authorization": "Bearer [Your API Key]";
+"Authorization": "Bearer [Your API Key]";
 
 
