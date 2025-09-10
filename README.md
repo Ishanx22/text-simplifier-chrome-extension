@@ -1,7 +1,7 @@
 
-# Recipe Genie
+# Text Simplifier
 
-✨ Recipe Genie is your casual kitchen buddy that instantly whips up recipes from the ingredients you already have. Simply add what’s in your kitchen, set optional calorie or protein goals, and let the genie do the magic. Quick, smart, and effortless — cooking made simple for everyone.
+✨ Text Genie is your smart writing buddy that instantly simplifies or summarizes any text right where you are. Just highlight your text, choose your goal — shorter, clearer, or simpler — and let the genie do the magic. Quick, effortless, and smart — reading and writing made easy for everyone.
 
 
 ## Images
@@ -12,15 +12,15 @@
 
 ## Features
 
-🧞 Ingredient-Based Recipes – Generate recipes instantly from the ingredients you already have.
+✨ Simplify & Summarize – Instantly simplify or summarize any selected text.
 
-⚡ Quick & Easy – Acts as a casual kitchen helper for fast recipe suggestions.
+⚡ One-Click Magic – Just highlight, right-click, and get results in seconds.
 
-🍽 Custom Macros – Add calorie or protein preferences to get health-focused recipes.
+📝 Smart & Clear – Turns complex text into easy-to-read content instantly.
 
-🎯 Personalized Results – Recipes are tailored only from your selected available ingredients.
+🎯 Accurate & Reliable – Keeps the meaning intact while simplifying.
 
-🌍 For Everyone – Designed for all users, from beginners to experienced home cooks.
+🌟 For Everyone – Perfect for students, professionals, or casual readers.
 
 ## Deployment
 
@@ -28,32 +28,17 @@ To deploy this project run
 
 1) Setup Api Key
 
-2) Install Node
+2) **Load Extension in Chrome**  
+   - Open Chrome and go to `chrome://extensions/`  
+   - Enable **Developer mode** (top-right)  
+   - Click **Load unpacked** and select the project folder 
 
-3) Install Dependencies
 
-```bash
-  npm install
-```
-4) Start backend
-
-```bash
-  cd backend
-  node server.js
-```
-5) Start frontend
-
-```bash
-  cd frontend
-  npm start
-```
 
 
 ## Tech Stack
 
-Backend-Node,Express,REST API,axios
-
-Frontend- React
+Html,Css,js
 
 
 
