@@ -130,7 +130,7 @@ async function simplifyWithDeepSeek(text) {
     const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
       method: "POST",
       headers: {
-        "Authorization": "Bearer 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",
+        "Authorization": "Bearer [Your API Key]",
         "Content-Type": "application/json",
         "HTTP-Referer": "https://your-extension-url",
         "X-Title": "SmartLearn Simplifier"
@@ -164,7 +164,7 @@ async function summarizeWithDeepSeek(text) {
     const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
       method: "POST",
       headers: {
-        "Authorization": "Bearer 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",
+        "Authorization": "Bearer [Your API Key]",
         "Content-Type": "application/json",
         "HTTP-Referer": "https://your-extension-url",
         "X-Title": "SmartLearn Summarizer"
