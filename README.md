@@ -64,6 +64,6 @@ Html,Css,js
 ` and replace line 133,167 with your key:
 
 ```javascript
-const API_KEY = "YOUR_API_KEY_HERE";
+"Authorization": "Bearer [Your API Key]"";
 
 
